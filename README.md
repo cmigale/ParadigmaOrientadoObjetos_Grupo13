@@ -1,1 +1,1 @@
-# ProgramacionOrientadaObjetos_Grupo13
+# ParadigmaOrientadoObjetos_Grupo13
